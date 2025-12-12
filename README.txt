@@ -1,3 +1,6 @@
 Welcome to Project ALCHEMY's Github Repository
 
-Included in this repository is all of the necessary code and information to get ALCHEMY working on your system. Do be warned, this process is a little tedious. The issue of portability has not yet been addressed and as a result you may find it difficult to construct. Do keep in mind that much of the steps are configuring the virutal machines and setting static IPs and what have you. Like I said: tedious stuff. In the Project ALCHEMY Setup Guide file, you can find a full set up guide to build ALCHEMY on your system.  
+Included in this repository is all of the necessary code and information to get ALCHEMY working on your system. Do be warned, this process is a little tedious. 
+The issue of portability has not yet been addressed and as a result you may find it difficult to construct. 
+Do keep in mind that much of the steps are configuring the virutal machines and setting static IPs and what have you. 
+Like I said: tedious stuff. In the Project ALCHEMY Setup Guide file, you can find a full set up guide to build ALCHEMY on your system.  
