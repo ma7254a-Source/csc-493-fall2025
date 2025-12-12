@@ -1,7 +1,3 @@
-"The program code comprising your project, including a README file with
-detailed instructions on how to compile and evaluate it, should be saved in a
-Github repository. The link to that repository should be included in the written
-report, and the repository should be made public to ensure that the instructor will
-not have difficulties accessing it." - syllabus as to what the repo should have 
+Welcome to Project ALCHEMY's Github Repository
 
---> steamlined instructions from our google doc? or we submit a Pdf file that details instructions. 
+Included in this repository is all of the necessary code and information to get ALCHEMY working on your system. Do be warned, this process is a little tedious. The issue of portability has not yet been addressed and as a result you may find it difficult to construct. Do keep in mind that much of the steps are configuring the virutal machines and setting static IPs and what have you. Like I said: tedious stuff. In the Project ALCHEMY Setup Guide file, you can find a full set up guide to build ALCHEMY on your system.  
